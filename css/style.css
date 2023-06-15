@@ -99,6 +99,9 @@ span {
 	font-weight: 400;
 }
 
+b {
+	color:gold;
+}
 .wrapper {
 	background: lightgrey;
 	text-align: center;
